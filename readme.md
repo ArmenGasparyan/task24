@@ -35,7 +35,7 @@ This project is developed using Node.js. Make sure you have Node.js installed on
 3. Run the application:
 
    ```bash
-   node index.js <param>
+   node non-fibonacci.js <param>
    ```
 
    Replace `<param>` with the desired input parameter for NonFibonacci.
